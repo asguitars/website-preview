@@ -1,0 +1,22 @@
+---
+title: Amyris
+subtitle: semi-hollow
+layout: default
+modal-id: 5
+date: 2014-07-15
+img:
+thumbnail: Amyris_semihollow_front.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Amyris
+description: ... Amyris semi hollow ...
+---
+
+<!-- html sytax to include image and adjust size ... -->
+<img src="img/portfolio/Amyris_semihollow_front.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="img/portfolio/Amyris_semihollow_back.jpg" alt="Drawing" style="width: 200px;"/>
+
+<!-- original markdown syntax for image insert, no easy solution for size change
+![Alt text](img/portfolio/Amyris_semihollow_back.jpg) 
+-->
