@@ -270,11 +270,11 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: center center;
+    background-position: left left; /*center center;*/
     background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
     -o-background-size: cover;
 }
 
@@ -375,7 +375,8 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9);
+    background: rgba(255,255,255,.5);  /* hover white */
+    /* rgba({{ site.data.template.color.primary | hex_to_rgb | join: ',' }}, .9); */
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {

@@ -1,0 +1,24 @@
+---
+title: Oxalis
+subtitle: single cut
+layout: default
+modal-id: 1
+date: 2014-07-15
+img: blueGuitar_front.jpg
+thumbnail: blueGuitar_front.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Oxalis
+description: 
+---
+
+<!-- html sytax to include image and adjust size ... -->
+<img src="img/portfolio/blue/blue-front1.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="img/portfolio/blue/blue-back1.jpg" alt="Drawing" style="width: 200px;"/>
+
+<img src="img/portfolio/blue/blue-close1.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="img/portfolio/blue/blue-close2.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="img/portfolio/blue/blue-headstock.jpg" alt="Drawing" style="width: 200px;"/>
+
+
