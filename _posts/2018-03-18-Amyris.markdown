@@ -1,6 +1,6 @@
 ---
 title: Amyris
-subtitle: semi-hollow
+subtitle: 
 layout: default
 modal-id: 5
 date: 2014-07-15
@@ -10,13 +10,20 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Amyris
-description: ... Amyris semi hollow ...
+description: 
 ---
 
 <!-- html sytax to include image and adjust size ... -->
+
+#### Amyris 6-string semi-hollow
+
 <img src="img/portfolio/Amyris_semihollow_front.jpg" alt="Drawing" style="width: 200px;"/>
 <img src="img/portfolio/Amyris_semihollow_back.jpg" alt="Drawing" style="width: 200px;"/>
 
 <!-- original markdown syntax for image insert, no easy solution for size change
 ![Alt text](img/portfolio/Amyris_semihollow_back.jpg) 
 -->
+
+#### Amyris 8-string
+
+<img src="img/portfolio/Black_8string.jpg" alt="Drawing" style="width: 200px;"/>

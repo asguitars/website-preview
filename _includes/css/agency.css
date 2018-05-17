@@ -270,11 +270,11 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: left left; /*center center;*/
+    background-position: center center; /*left left; /*center center;*/
     background-repeat: none;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
+    -webkit-background-size: cover; /*contain;*/
+    -moz-background-size: cover;
+    background-size: cover;
     -o-background-size: cover;
 }
 
@@ -495,8 +495,8 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
-    border: 7px solid #f1f1f1;
-    border-radius: 100%;
+    /*border: 7px solid #f1f1f1;
+    border-radius: 100%;*/
     text-align: center;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
@@ -865,4 +865,29 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+/* add stuff for placing rosspic left and  text right */
+#content {
+   background-color: maroon;
+   font-size: 0;
+   width: 500px;
+   height: 500px;
+   padding: 20px;
+}
+
+#left, #right {
+    display: inline-block;
+    box-sizing: border-box;
+    width: 45%;
+    height: 100%;
+}
+
+#left {
+    background-color: blue;
+    margin-right: 50px;
+}
+
+#right {
+    background-color: green;
 }

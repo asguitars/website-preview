@@ -1,6 +1,6 @@
 ---
-title: Special
-subtitle: 6-string
+title: Psydrax
+subtitle:  
 layout: default
 modal-id: 7
 date: 2014-07-15
@@ -10,8 +10,11 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Special
-description: ...
+description: 
 ---
 
 <!-- html sytax to include image and adjust size ... -->
+
+#### Psydrax 6-string
+
 <img src="img/portfolio/special_shape.jpg" alt="Drawing" style="width: 200px;"/>

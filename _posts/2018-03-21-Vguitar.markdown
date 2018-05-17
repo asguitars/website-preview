@@ -1,5 +1,5 @@
 ---
-title: the V
+title: Vartica
 subtitle: 
 layout: default
 modal-id: 2
@@ -10,8 +10,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: V
-description: ...
+description: 
 ---
 
 <!-- html sytax to include image and adjust size ... -->
+
+#### Vartica 6-string
 <img src="img/portfolio/the_V.jpg" alt="Drawing" style="width: 200px;"/>

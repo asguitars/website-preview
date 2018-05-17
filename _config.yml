@@ -1,11 +1,11 @@
-url: https://as-guitars.github.io/ 
+url: http://asguitars.co.za 
 # https://y7kim.github.io/
 baseurl:
 # /agency-jekyll-theme/
 
 # Site settings
-title: Alain Smith Guitars
-email: alainsmith46@gmail.com
+title: AS Guitars
+email: alain@asguitars.co.za
 description: "boutique guitars"
 #"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
