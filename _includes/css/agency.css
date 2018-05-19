@@ -127,7 +127,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: transparent /*#{{ site.data.template.color.primary }}*/;
 }
 
 .btn-xl:hover,
@@ -137,7 +137,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
     color: #fff;
-    background-color: #{{ site.data.template.color.secondary }};
+    background-color: transparent /*#{{ site.data.template.color.secondary }}*/;
 }
 
 .btn-xl:active,
@@ -268,23 +268,28 @@ fieldset[disabled] .btn-xl.active {
 header {
     text-align: center;
     color: #fff;
-    background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
-    background-position: center center; /*left left; /*center center;*/
-    background-repeat: none;
-    -webkit-background-size: cover; /*contain;*/
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background-attachment: scroll, scroll;
+/*    background-image: url('{{ site.baseurl }}/img/logo-black-border-transparent.png'), url('{{ site.baseurl }}/img/Xyris-8str-black.jpg'); */
+    background-image: url('{{site.baseurl }}/img/logo-white-transparent.png'), url('{{ site.baseurl }}/img/builttoperform.png'),
+     url('{{ site.baseurl }}/img/Rossclip.jpg');
+    background-color: black;
+ /*   background-position: right 20px bottom 10%, center center; /*left left; /*center center; */
+ 	background-position: right 10% top 42%, right 10% bottom 12%, left 5% top 32px; 
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    -webkit-background-size: 45%, 30%, contain; /*contain;*/
+    -moz-background-size: 45%, 30%, contain;
+    background-size: 45%, 30%, contain;   /*45%, cover ;*/
+    -o-background-size: 45%, 30%, contain;
 }
 
 header .intro-text {
+	visibility:hidden;
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 50px; /*50px;*/
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 25px; /*25px;*/
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
