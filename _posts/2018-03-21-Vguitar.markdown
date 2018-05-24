@@ -1,5 +1,5 @@
 ---
-title: Vartica
+title: Vatica
 subtitle: 
 layout: default
 modal-id: 2
@@ -15,8 +15,8 @@ description:
 
 <!-- html sytax to include image and adjust size ... -->
 
-#### Vartica 6-string
-<img src="img/portfolio/vartica/V-front3-s.jpg" alt="Drawing" style="width: 100%;"/>
-<img src="img/portfolio/vartica/V-back-s.jpg" alt="Drawing" style="width: 100%;"/>
-<img src="img/portfolio/vartica/V-close1-s.jpg" alt="Drawing" style="width: 49%;"/>
-<img src="img/portfolio/vartica/V-headstock-s.jpg" alt="Drawing" style="width: 49%"/>
+#### Vatica 6-string
+<img src="img/portfolio/vatica/V-front3-s.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="img/portfolio/vatica/V-back-s.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="img/portfolio/vatica/V-close1-s.jpg" alt="Drawing" style="width: 49%;"/>
+<img src="img/portfolio/vatica/V-headstock-s.jpg" alt="Drawing" style="width: 49%"/>
