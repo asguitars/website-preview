@@ -26,4 +26,4 @@ description:
 
 #### Amyris 8-string
 
-<img src="img/portfolio/Black_8string-s.jpg" alt="Drawing" style="width: 50%;"/>
+<img src="img/portfolio/black_8string-s.jpg" alt="Drawing" style="width: 50%;"/>
