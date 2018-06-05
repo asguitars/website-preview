@@ -19,8 +19,8 @@ description:
 <!-- Drop top Xyris in vintage cherry burst with a flame maple drop top, pod mahogany and American walnut strip and matching headstock cap. 7 piece maple, American walnut and pod mahogany neck. Poplar centre and book matched quilted maple back. African rosewood ound with American Walnut fret board with abalone markers and stainless steel jumbo frets. Gotoh hard tail bridge with Wilkinson tuners and an aluminium alloy nut. Seymour Duncan Distortion pickups with a 3 way toggle and a push pull switch to split the coils on the volume pot. -->
 
 <img src="img/portfolio/xyris/DropTop-front-s.jpg" alt="Drawing" style="width: 29%;"/>
-<img src="img/portfolio/xyris/DropTop-close1-s.jpg" alt="Drawing" style="width: 37%;"/>
-<img src="img/portfolio/xyris/DropTop-close2-s.jpg" alt="Drawing" style="width: 33%;"/>
+<img src="img/portfolio/xyris/DropTop-close1-s.jpg" alt="Drawing" style="width: 36%;"/>
+<img src="img/portfolio/xyris/DropTop-close2-s.jpg" alt="Drawing" style="width: 32%;"/>
 
 
 #### Xyris 7-string
@@ -32,6 +32,5 @@ description:
 
 #### Others
 
-<img src="img/portfolio/xyris/Kiat-s.jpg" alt="Drawing" style="width: 32.5%;"/>
-<img src="img/portfolio/xyris/xyris-Cherryburst-s.jpg" alt="Drawing" style="width: 32.5%;"/>
-<img src="img/portfolio/xyris/xyris-purple-s.jpg" alt="Drawing" style="width: 32.5%;"/>
+<img src="img/portfolio/xyris/xyris-Cherryburst-s.jpg" alt="Drawing" style="width: 48%;"/>
+<img src="img/portfolio/xyris/xyris-purple-s.jpg" alt="Drawing" style="width: 48%;"/>
