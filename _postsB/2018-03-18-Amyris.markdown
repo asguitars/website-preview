@@ -1,0 +1,33 @@
+---
+title: Amyris
+subtitle: 
+layout: default
+modal-id: 5
+date: 2014-07-15
+img:
+thumbnail: Amyris_semihollow_front-s.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Amyris
+description: 
+---
+
+<!-- html sytax to include image and adjust size ... -->
+
+#### Amyris 6-string semi-hollow
+
+<img src="img/portfolio/Amyris_semihollow_front-s.jpg" alt="Drawing" style="width: 49%;"/>
+<img src="img/portfolio/Amyris_semihollow_back-s.jpg" alt="Drawing" style="width: 49%;"/>
+
+<!-- original markdown syntax for image insert, no easy solution for size change
+![Alt text](img/portfolio/Amyris_semihollow_back.jpg) 
+-->
+
+#### Amyris 8-string
+
+<img src="img/portfolio/black_8string-s.jpg" alt="Drawing" style="width: 50%;"/>
+
+
+#### Amyris Kiaat
+<img src="img/portfolio/amyris/Kiat-s.jpg" alt="Drawing" style="width: 50%;"/>

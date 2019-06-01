@@ -1,0 +1,22 @@
+---
+title: Vatica
+subtitle: 
+layout: default
+modal-id: 2
+date: 2014-07-15
+img: the_V.jpg
+thumbnail: the_V-s.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: V
+description: 
+---
+
+<!-- html sytax to include image and adjust size ... -->
+
+#### Vatica 6-string
+<img src="img/portfolio/vatica/V-front3-s.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="img/portfolio/vatica/V-back-s.jpg" alt="Drawing" style="width: 100%;"/>
+<img src="img/portfolio/vatica/V-close1-s.jpg" alt="Drawing" style="width: 49%;"/>
+<img src="img/portfolio/vatica/V-headstock-s.jpg" alt="Drawing" style="width: 49%"/>
