@@ -1,4 +1,4 @@
-url: http://asguitars.co.za 
+url: http://asguitars.co.za
 # https://y7kim.github.io/
 baseurl:
 # /agency-jekyll-theme/
@@ -53,7 +53,7 @@ social:
     url: https://www.facebook.com/Alain-Smith-Guitars-1944528022450251
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
-#  - title: bitbucket 
+#  - title: bitbucket
 #    url: http://bitbucket.org/jekyll
 #  - title: github
 #    url: http://github.com/jekyll
@@ -62,6 +62,10 @@ social:
 address:
   - line: 18 Willow Crescent
   - line: Pinetown 3610
+
+# Google Analytics
+# check at https://desiredpersona.com/google-analytics-jekyll/ for description
+google_analytics: UA-142101000-1
 
 # Build settings
 markdown: kramdown
