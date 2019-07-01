@@ -1,0 +1,24 @@
+---
+title: Aiden
+subtitle:  
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: Aiden4.jpg
+thumbnail: Aiden4_thumb.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Special
+description:
+secondary: endorsements
+---
+
+<!-- html sytax to include image and adjust size ... -->
+
+#### Aiden, guitarist at ... plays our very special Psydrax.
+
+<img src="img/endorse/Aiden/Aiden1.jpg" alt="Drawing" style="width: 43.4%;"/>
+<img src="img/endorse/Aiden/Aiden2.jpg" alt="Drawing" style="width: 52%;"/>
+<img src="img/endorse/Aiden/Aiden3.jpg" alt="Drawing" style="width: 46.7%;"/>
+<img src="img/endorse/Aiden/Aiden4.jpg" alt="Drawing" style="width: 49%;"/>

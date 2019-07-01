@@ -1,0 +1,23 @@
+---
+title: Aiden
+subtitle:  
+layout: default
+modal-id: 1
+date: 2014-07-15
+img: Aiden4.jpg
+thumbnail: Aiden4.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Special
+description: 
+---
+
+<!-- html sytax to include image and adjust size ... -->
+
+#### Aiden
+
+<img src="img/endorse/Aiden1.jpg" alt="Drawing" style="width: 49%;"/>
+<img src="img/endorse/Aiden3.jpg" alt="Drawing" style="width: 49%;"/>
+<img src="img/endorse/Aiden2.jpg" alt="Drawing" style="width: 49%;"/>
+<img src="img/endorse/Aiden4.jpg" alt="Drawing" style="width: 49%;"/>

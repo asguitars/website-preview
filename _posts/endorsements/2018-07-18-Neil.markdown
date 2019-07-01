@@ -1,0 +1,21 @@
+---
+title: Neil Ford
+subtitle:  
+layout: default
+modal-id: 10
+date: 2014-07-14
+img: NeilFord.jpg
+thumbnail: NeilFord_thumb.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Special
+description:
+secondary: endorsements
+---
+
+<!-- html sytax to include image and adjust size ... -->
+
+#### [Neil Ford](https://www.facebook.com/neil.ford.359), bassist at [Templar Funk](https://www.facebook.com/templarfunkband/) and other projects plays an AS Guitars custom bass.
+
+<img src="img/endorse/Neil/NeilFord-s.jpg" alt="Drawing" style="width: 32.5;"/>
