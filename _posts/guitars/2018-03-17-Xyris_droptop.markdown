@@ -1,16 +1,16 @@
 ---
 title: Xyris
-subtitle: 
+subtitle:
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: Xyris_droptop.jpg
-thumbnail: Xyris_droptop-s.jpg
+img: Xyris_cherryburst-small.jpg
+thumbnail: Xyris_cherryburst-small.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Xyris
-description: 
+description:
 ---
 
 <!-- html sytax to include image and adjust size ... -->
@@ -22,6 +22,11 @@ description:
 <img src="img/portfolio/xyris/DropTop-close1-s.jpg" alt="Drawing" style="width: 36%;"/>
 <img src="img/portfolio/xyris/DropTop-close2-s.jpg" alt="Drawing" style="width: 32%;"/>
 
+#### Xyris 6-string Cherryburst
+
+<img src="img/portfolio/xyris/Xyris_cherryburst-big.jpg" alt="Drawing" style="width: 32.5%;"/>
+<img src="img/portfolio/xyris/Xyris_cherryburst-front-back.png" alt="Drawing" style="width:32.5%;"/>
+<img src="img/portfolio/xyris/Xyris_cherryburst-head-s.jpg" alt="Drawing" style="width: 32.5%;"/>
 
 #### Xyris 7-string
 
@@ -30,7 +35,9 @@ description:
 <img src="img/portfolio/xyris/red-close1-s.jpg" alt="Drawing" style="width: 32.5%;"/>
 
 
+<!--
 #### Others
 
 <img src="img/portfolio/xyris/xyris-Cherryburst-s.jpg" alt="Drawing" style="width: 48%;"/>
 <img src="img/portfolio/xyris/xyris-purple-s.jpg" alt="Drawing" style="width: 48%;"/>
+-->

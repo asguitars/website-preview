@@ -5,12 +5,12 @@ layout: default
 modal-id: 7
 date: 2014-07-15
 img: special_shape.jpg
-thumbnail: special_shape-s.jpg
+thumbnail: special_shape-s2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Special
-description: 
+description:
 ---
 
 <!-- html sytax to include image and adjust size ... -->

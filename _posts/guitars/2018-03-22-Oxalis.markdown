@@ -1,16 +1,16 @@
 ---
 title: Oxalis
-subtitle: 
+subtitle:
 layout: default
 modal-id: 1
 date: 2014-07-15
 img: blueGuitar_front.jpg
-thumbnail: blueGuitar_front-s.jpg
+thumbnail: blueGuitar_front-s2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Oxalis
-description: 
+description:
 ---
 
 <!-- html sytax to include image and adjust size ... -->
@@ -22,5 +22,3 @@ description:
 <img src="img/portfolio/oxalis/blue-close1-s.jpg" alt="Drawing" style="width: 32.5%;"/>
 <img src="img/portfolio/oxalis/blue-close2-s.jpg" alt="Drawing" style="width: 32.5%;"/>
 <img src="img/portfolio/oxalis/blue-headstock-s.jpg" alt="Drawing" style="width: 32.5%;"/>
-
-

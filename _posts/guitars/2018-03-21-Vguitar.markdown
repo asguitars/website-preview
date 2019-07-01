@@ -1,16 +1,16 @@
 ---
 title: Vatica
-subtitle: 
+subtitle:
 layout: default
 modal-id: 2
 date: 2014-07-15
 img: the_V.jpg
-thumbnail: the_V-s.jpg
+thumbnail: the_V-s2b.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: V
-description: 
+description:
 ---
 
 <!-- html sytax to include image and adjust size ... -->
